@@ -1,0 +1,12 @@
+# Adobe junk
+AppData/
+*.db
+*_guid
+*_wid
+*_cookie
+*_data
+*_metadata
+
+# Java build files
+*.class
+bin/
