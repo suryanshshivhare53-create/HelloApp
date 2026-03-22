@@ -10,3 +10,4 @@ AppData/
 # Java build files
 *.class
 bin/
+*.lnk
